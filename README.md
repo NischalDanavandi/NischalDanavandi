@@ -1,16 +1,16 @@
-<!-- Header banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2631,100:2E86C1&height=220&section=header&text=Nischal%20Danavandi&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Data%20%26%20Business%20Analytics&descSize=18&descAlignY=58" width="100%" alt="Nischal Danavandi — Data & Business Analytics"/>
+<h1>Nischal Danavandi</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1400&color=2E86C1&center=true&vCenter=true&width=640&height=30&lines=From+raw+data+to+decisions+that+hold+up;SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+Excel;Cleaning+%E2%86%92+Modelling+%E2%86%92+Insight" alt="Typing tagline"/>
+<h3>Data & Business Analytics</h3>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1400&color=58A6FF&center=true&vCenter=true&width=640&height=30&lines=From+raw+data+to+decisions+that+hold+up;SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+Excel;Cleaning+%E2%86%92+Modelling+%E2%86%92+Insight" alt="Typing tagline"/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1B2631?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfoliozip--nischaldanavand.replit.app)
+<br/><br/>
+
+<a href="https://portfoliozip--nischaldanavand.replit.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Portfolio"/></a>
 &nbsp;
-<!-- Replace the URL below with your LinkedIn profile link -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-HANDLE)
+<a href="https://www.linkedin.com/in/nischal-danavandi/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn"/></a>
 
 </div>
 
@@ -26,15 +26,17 @@ Data & Business Analytics enthusiast skilled in SQL, Power BI, Python & Excel. T
 
 <div align="center">
 
-![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge" alt="SQL"/>
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=33C481" alt="Excel"/>
+<img src="https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=F37626" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/Colab-0D1117?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" alt="Google Colab"/>
 
 </div>
+
+<br/>
 
 | Area | What I use it for |
 |:--|:--|
@@ -47,10 +49,6 @@ Data & Business Analytics enthusiast skilled in SQL, Power BI, Python & Excel. T
 
 <div align="center">
 
-**Project write-ups, dashboards, and findings**
-
-[![Open Portfolio](https://img.shields.io/badge/View_Full_Portfolio-2E86C1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfoliozip--nischaldanavand.replit.app)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86C1,100:1B2631&height=100&section=footer" width="100%" alt=""/>
+<a href="https://portfoliozip--nischaldanavand.replit.app"><img src="https://img.shields.io/badge/View_Full_Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=0D1117" alt="View Full Portfolio"/></a>
 
 </div>
